@@ -1,6 +1,6 @@
 
 constant: CONNECTION_NAME {
-  value: "poc-aecorsoft-cortex"
+  value: "project-poc-cortex"
   export: override_required
 }
 
